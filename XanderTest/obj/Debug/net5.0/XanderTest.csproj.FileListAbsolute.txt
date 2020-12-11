@@ -1,0 +1,15 @@
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/XanderTest.deps.json
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/XanderTest.runtimeconfig.json
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/XanderTest.runtimeconfig.dev.json
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/XanderTest.dll
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/ref/XanderTest.dll
+/Users/user/Projects/XanderTest/XanderTest/bin/Debug/net5.0/XanderTest.pdb
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.csprojAssemblyReference.cache
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.AssemblyInfoInputs.cache
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.AssemblyInfo.cs
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.csproj.CoreCompileInputs.cache
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.dll
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/ref/XanderTest.dll
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.pdb
+/Users/user/Projects/XanderTest/XanderTest/obj/Debug/net5.0/XanderTest.genruntimeconfig.cache

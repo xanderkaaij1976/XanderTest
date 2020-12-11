@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8B7F151F-5738-45DF-8710-97C7C1D7BA24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XanderTest/Program.cs">
+    <Files>
+      <File FileName="XanderTest/Program.cs" Line="43" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XanderTest" expanded="True">
+            <Node name="XanderTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XanderTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
